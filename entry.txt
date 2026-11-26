@@ -1,0 +1,1 @@
+fix(prod): 4:12 a.m. deploy, removed the guard, 214 tables gone, git blame says ticket #1987 told me to
